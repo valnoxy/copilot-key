@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# esp32
+esp32-copilot-key/.pio
+esp32-copilot-key/.vscode/.browse.c_cpp.db*
+esp32-copilot-key/.vscode/c_cpp_properties.json
+esp32-copilot-key/.vscode/launch.json
+esp32-copilot-key/.vscode/ipch
